@@ -1,7 +1,7 @@
 # KicadFormantVCO
 Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
 
-# Old
+# Old README.md
 # SMD Formant VCO Prototype
 KiCAD files for eurorack-compatible formant-based VCO design. Mostly created just to learn KiCAD.
 
