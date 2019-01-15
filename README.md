@@ -4,15 +4,15 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
 # Rev C1 - New PCB
 
 
-## Status - Rev A Produced 3 of 5 sections working
+## Status - Rev C1 Produced - received - untested
 ### Errata
 
 ### Issues and Notes
- - The two ESP12 modules are difficult to program
-
- - The Wemos D1 mini section should not be used for 230V but works nevertheless.
-
- - The rest is fine.
+ - Next should not rely on the LM3046 BJT as its not easy to come by.
+ - Next should not rely on the REF102/AD587 as its more expensive than most and not certain if its needed.
+ - Consider 10 pin Doepfer
+ - Consider NAND alternative in oscilator core
+ - Consider TL074/MC33079
 
 ## Physical Construction
 
