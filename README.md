@@ -1,7 +1,26 @@
 # KicadFormantVCO
 Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
 
-# Old README.md
+# Rev C1 - New PCB
+
+
+## Status - Rev A Produced 3 of 5 sections working
+### Errata
+
+### Issues and Notes
+ - The two ESP12 modules are difficult to program
+
+ - The Wemos D1 mini section should not be used for 230V but works nevertheless.
+
+ - The rest is fine.
+
+## Physical Construction
+
+## Features
+
+
+# Rev B
+## Old README.md For original PCB
 # SMD Formant VCO Prototype
 KiCAD files for eurorack-compatible formant-based VCO design. Mostly created just to learn KiCAD.
 
