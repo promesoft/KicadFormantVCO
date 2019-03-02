@@ -18,6 +18,11 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
  - trimmers on back
  - add resistor to coarse freq trim
  - consider 1nF cap for VCO core (now 470p)
+ - add swich on PCB for LFO
+ - Q4 and Q5 was 2N2222 for test
+ - Q1,2,3 was S9013 for the test
+ - Op amp was LM833 for the test
+ - Replace jack connectors 
 
 ## Physical Construction
 
