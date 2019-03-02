@@ -6,6 +6,7 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
 
 ## Status - Rev C1 Produced - received - tested
 ### Errata
+ - RV7 reversed (FM)
 
 ### Issues and Notes
  - Consider 10 pin Doepfer (will make routing easier)
