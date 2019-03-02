@@ -25,6 +25,14 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
  - Q4 and Q5 was 2N2222 for test
  - Q1,2,3 was S9013 for the test
  - Op amp was LM833 for the test
+ - Mix of 1uF and 4u7 decoupling caps for the test
+ - R12 = 390k for the test
+ - RV8 = 500R for the test
+ - RV7=RV9 = 50k for the test
+ - R9 = 240R for the test
+ - R18 = 18k for the test
+ - R24 = 5k6 for the test
+ - R28 = 330R for the test
  
 ## Physical Construction
 
