@@ -4,7 +4,7 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
 # Rev C1 - New PCB
 
 
-## Status - Rev C1 Produced - received - untested
+## Status - Rev C1 Produced - received - tested
 ### Errata
 
 ### Issues and Notes
@@ -14,6 +14,10 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
  - Place SMD on backside to make better room for components and traces
  - Consider NAND alternative in oscilator core
  - Consider TL074/MC33079
+ - 1N4148 footprint - reconsider
+ - trimmers on back
+ - add resistor to coarse freq trim
+ - consider 1nF cap for VCO core (now 470p)
 
 ## Physical Construction
 
