@@ -23,6 +23,7 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
  - Q1,2,3 was S9013 for the test
  - Op amp was LM833 for the test
  - Replace jack connectors 
+ - Silk screen is off..
 
 ## Physical Construction
 
