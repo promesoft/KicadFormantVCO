@@ -12,7 +12,7 @@ Started as a Clone of http://sebholzapfel.com/modular-synth-vco-design-build/
  - Next should not rely on the REF102/AD587 as its more expensive than most and not certain if its needed.
  - Consider 10 pin Doepfer (will make routing easier)
  - Place SMD on backside to make better room for components and traces
- - Consider NAND alternative in oscilator core
+ - Consider NAND alternative in oscilator core (74LS00 used for test without problems)
  - Consider TL074/MC33079
  - 1N4148 footprint - reconsider
  - trimmers on back
